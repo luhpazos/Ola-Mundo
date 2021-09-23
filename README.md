@@ -1,6 +1,7 @@
 # Olá, Mundo!
 Primeiro repositório do curso de Git e GitHub
 
-Repositório criando durante uma aula
+Repositório criado durante uma aula
 
-Linha teste 
+*Linha teste*
+**teste 2**
